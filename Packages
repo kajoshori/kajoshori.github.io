@@ -1,0 +1,27 @@
+Package: com.34306.gi.offset
+Name: Genshin Impact Hack v2.6.0 (Menu Offset)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Genshin Impact v2.76.0 Hack Mod Menu by 34306
+Maintainer: Little 34306
+Author: 34306
+Section: Tweaks
+Version: 2.6.0
+Installed-Size: 94720
+Depiction: https://kajoshori.blogspot.com/2022/04/genshin-impact-hack-v260-menu-offset.html
+Filename: ./debs/com.34306.gi.offset_2.6.0_iphoneos-arm
+MD5sum: 3c7798e569445ee192b3d5367c9c3851
+
+Package: com.34306.shori.igg
+Name: Genshin Impact Hack v2.6.0 (Menu iGG)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Menu iGG Genshin Impact v2.6.0 Build from Menu iGG Genshin Impact v2.5.0
+Maintainer: Little 34306, Kajo Shori
+Author: 34306, Shori
+Section: Tweaks
+Version: 2.6.0
+Installed-Size: 26470
+Depiction: https://kajoshori.blogspot.com/2022/04/genshin-impact-hack-v260-menu-igg.html
+MD5sum: e5762b332a1af14c805db4ad3227de60
+Filename: ./debs/com.34306.shori.igg_2.6.0_iphoneos-arm
